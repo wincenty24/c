@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559571872 source:c:\users\wince\desktop\studia\projekt_k_i_k\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"biblioteka.h"
+
+1559519747 source:c:\users\wince\desktop\studia\projekt_k_i_k\biblioteka.c
+
+1559556142 c:\users\wince\desktop\studia\projekt_k_i_k\biblioteka.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
