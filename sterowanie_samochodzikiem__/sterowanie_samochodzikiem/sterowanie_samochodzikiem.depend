@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575619934 source:c:\users\wince\desktop\studia\sterowanie_samochodzikiem\main.c
+	<stdlib.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<wingdi.h>
+	<commctrl.h>
+	<tchar.h>
+
